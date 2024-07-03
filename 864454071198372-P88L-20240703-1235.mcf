@@ -1,0 +1,1972 @@
+[
+  {
+    "Name": "dtpAfter",
+    "Type": "DateTimePicker",
+    "Value": "2024-07-03T11:44:32.00092+03:00"
+  },
+  {
+    "Name": "dtpBefore",
+    "Type": "DateTimePicker",
+    "Value": "2024-07-03T11:44:32.00092+03:00"
+  },
+  {
+    "Name": "textBox_IMEI_WithoutDevice",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBox_Model_WithoutDevice",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBox_FW_WithoutDevice",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBox_mhexFile_Ver_Function",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBox_mhexFile_Ver_Model",
+    "Type": "ComboBox",
+    "Value": "MeitrackManager.FrmMain+ComboxType"
+  },
+  {
+    "Name": "comboBox_mhexFile_Ver_FW",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "checkBox_Ledoff",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_Enginecheck",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_AutoArmed",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_3DShakeWakeUp",
+    "Type": "CheckBox",
+    "Value": "True"
+  },
+  {
+    "Name": "checkBox_PowerKeyEnable",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_FallWakeUp",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_BuzzerClose",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_BuzzerOff",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_AutoSleep",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_GPRSButton",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_GPSLogButton",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_AGPSOn",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_WIFIOff",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_GPSOff",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_AutoAuthorizeMode",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_RFIDControlOut1",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_AuthorizationCtrl",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_VehicleTheftAlarm",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_EnableBuzzerToAlert",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_TrailerIDFunctionviaiButton",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_ShellCheck",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_OverSpeedControl",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_GpsStaticDrift",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_SmsUrlSw",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_SleepWhileCharging",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_NumberOfSatellitesWhenGPSInvalid",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_AutoHangUp",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_CloseReplySms",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_NoSleep",
+    "Type": "RadioButton",
+    "Value": "True"
+  },
+  {
+    "Name": "radioButton_NormalSleep",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_DeepSleep",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_SuperDeepSleep",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_SleepCounting",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_IntelligentTransportation",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_WorkMode_Smart",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "numUploadInterval",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numRemoveAlarmInterval",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numOutFenceInterval",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numGPRSInterval",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numGPRSIntervalACCOff",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numVibrationSensitivity",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numEnterSleepTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "rdoDeiverMode",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "rdoStudentMode",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "rdoEnableSleep",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "numSleepTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "rdoDisableSleep",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "rdoNoChange",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "rdoPowerOn",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "rdoShutdown",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_AESEncryption",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "textBox_AESEncryption",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_ParameterTable",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBox_SelectParameterTable",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "checkBox_EnabledRoamingParameterTable",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "numericUpDown_GPSFilterSpeedRangeHigh",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_NumberOfGPSSatellites",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_GPSPositioningAccuracy",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_GPSFilterSpeedRangeLow",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "checkBox_GPSDataFilterEnable",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime1",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime24",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime2",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime23",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime3",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime22",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime4",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime21",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime5",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime20",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime6",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime19",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime7",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime18",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime8",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime17",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime9",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime16",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime10",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime15",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime11",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime14",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime12",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "dateTimePicker_WakeUpTime13",
+    "Type": "DateTimePicker",
+    "Value": "255,255,255"
+  },
+  {
+    "Name": "numericUpDown_ArmedAndUnarmed_PreesTimesOfButton",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_ArmedAndUnarmed_InterferenceDuration",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_ArmedAndUnarmed_ArmedTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_ArmedAndUnarmed_TriggerAlarmTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "textBoxEEP2_SYS_DEVICE_NAME",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBoxEEP2_SYS_P99G_WORK_MODE_MSG",
+    "Type": "ComboBox",
+    "Value": "GPS+Base station Location"
+  },
+  {
+    "Name": "textBoxEEP2_SYS_GET_DEVICE_FUNCTION_VERSION",
+    "Type": "TextBox",
+    "Value": "P88L-EFMR2W1B5A1"
+  },
+  {
+    "Name": "comboBox_GPSPositioningMode",
+    "Type": "ComboBox",
+    "Value": "GPS_BEIDOU"
+  },
+  {
+    "Name": "numericUpDown_SystemTimeSynchronization_NTPPort2",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "textBox_SystemTimeSynchronization_NTPServer2",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown_SystemTimeSynchronization_NTPPort1",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "textBox_SystemTimeSynchronization_NTPServer1",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown_SystemTimeSynchronization_NTPSynchronizationTimeout",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "comboBox_SystemTimeSynchronization_Mode",
+    "Type": "ComboBox",
+    "Value": "GNSS+NITZ"
+  },
+  {
+    "Name": "textBox_DNS_Sever",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "radioButton_HTTP",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_TCP1",
+    "Type": "RadioButton",
+    "Value": "True"
+  },
+  {
+    "Name": "radioButton_UDP1",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "comboBox_IPDomain1",
+    "Type": "ComboBox",
+    "Value": "167.86.80.10"
+  },
+  {
+    "Name": "textBox_IPDomainPort1",
+    "Type": "TextBox",
+    "Value": "6020"
+  },
+  {
+    "Name": "textBox_BackupIPDomain",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown_GPRSTimeZone",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "comboBox_GPRSConnectMode",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "radioButton_Close1",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "textBox_BackupIPDomainPort",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_IPDomain2",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "radioButton_TCP2",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "textBox_IPDomainPort2",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "radioButton_UDP2",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_Close2",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "textBox_3807_APN2",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_3807_APN2_PSW",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_3807_APN2_UserName",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_3807_APN1",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_3807_APN1_PSW",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_3807_APN1_UserName",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_eSIMAPN2",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_eSIMAPN_PSW2",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_eSIMAPN_UserName2",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_eSIMAPN1",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_eSIMAPN_PSW1",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_eSIMAPN_UserName1",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "checkBox_AutoAPN",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "textBox_APNPassword",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_APNUserName",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_APN",
+    "Type": "TextBox",
+    "Value": "gprs.qtel"
+  },
+  {
+    "Name": "textBox_PPPoESettings_APN",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown_PPPoESettings_IdleTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_PPPoESettings_RedialPeriod",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "comboBox_PPPoESettings_OperationMode",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_PPPoESettings_Password",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_PPPoESettings_UserName",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "checkBox_PPPoESettings_Enabled",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "comboBox_Protocol",
+    "Type": "ComboBox",
+    "Value": "Auto Event Report"
+  },
+  {
+    "Name": "comboBox_GPRSMode",
+    "Type": "ComboBox",
+    "Value": "Mode2"
+  },
+  {
+    "Name": "numericUpDown_GPRSReportTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_GPSLogInterval",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_GPRSInterval",
+    "Type": "NumericUpDown",
+    "Value": "2"
+  },
+  {
+    "Name": "numericUpDown_IntervalUnit",
+    "Type": "NumericUpDown",
+    "Value": "10"
+  },
+  {
+    "Name": "numericUpDown_GPRSIntervalACCOff",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_GPRSIntervalRoam",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_GPRSIntervalACCOffRoam",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_GPRSInterval_SmartMode",
+    "Type": "NumericUpDown",
+    "Value": "60"
+  },
+  {
+    "Name": "numericUpDown_HeartbeatLocationTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_CANDataIntervalTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_heart_dis",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_GPRSPack",
+    "Type": "NumericUpDown",
+    "Value": "1"
+  },
+  {
+    "Name": "numericUpDown_GprsUpPack",
+    "Type": "NumericUpDown",
+    "Value": "5"
+  },
+  {
+    "Name": "cmbGpsLogSave",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown_IridiumInterval",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_IridiumIntervalACCOff",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "textBox_CommandCenter3",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_CommandCenter2",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_CommandCenter1",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown_TimeZone_Minutes",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_TimeZone_Hours",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "comboBox_TimeZone",
+    "Type": "ComboBox",
+    "Value": "UTC+00:00"
+  },
+  {
+    "Name": "textBox_SuperPassword",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown_AutoReportTimes",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_SMSReportInterval",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_SMSTimeZone",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "textBox_SMSPassword",
+    "Type": "TextBox",
+    "Value": "0000"
+  },
+  {
+    "Name": "textBox_MonitorPhoneNO5",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_MonitorPhoneNO4",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_SMSTrackNO",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_MonitorPhoneNO3",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_MonitorPhoneNO2",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_SMSCNumber",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_MonitorPhoneNO1",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "checkBox_SelectAll",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkedListBox_UploadInformationSelect",
+    "Type": "CheckedListBox",
+    "Value": "True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_IN1_H",
+    "Type": "Authorize_V3",
+    "Value": "0,3,1,0,0,83,0,79,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,199,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_LOW_BATT",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,76,0,111,0,119,0,32,0,66,0,97,0,116,0,116,0,101,0,114,0,121,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_OVER_SPEED",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,83,0,112,0,101,0,101,0,100,0,105,0,110,0,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_ENTER_GEO",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,69,0,110,0,116,0,101,0,114,0,32,0,70,0,101,0,110,0,99,0,101,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_EXIT_GEO",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,69,0,120,0,105,0,116,0,32,0,70,0,101,0,110,0,99,0,101,0,0,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_POWER_ON_EXT",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_POWER_OFF_EXT",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_GPS_NO_FIX",
+    "Type": "Authorize_V3",
+    "Value": "0,0,0,0,0,71,0,80,0,83,0,32,0,83,0,105,0,103,0,110,0,97,0,108,0,32,0,76,0,111,0,115,0,116,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_GPS_FIX",
+    "Type": "Authorize_V3",
+    "Value": "0,0,0,0,0,71,0,80,0,83,0,32,0,82,0,101,0,99,0,111,0,118,0,101,0,114,0,121,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_ENTER_SLEEP",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,69,0,110,0,116,0,101,0,114,0,32,0,83,0,108,0,101,0,101,0,112,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_EXIT_SLEEP",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,69,0,120,0,105,0,116,0,32,0,83,0,108,0,101,0,101,0,112,0,0,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_REBOOT",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,80,0,111,0,119,0,101,0,114,0,32,0,79,0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_HEARTBEAT_REPORT",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_HEADING_CHANGE",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,67,0,111,0,114,0,110,0,101,0,114,0,105,0,110,0,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_DISTANCE_TRACK",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,68,0,105,0,115,0,116,0,97,0,110,0,99,0,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_CURRENT_LOCATION",
+    "Type": "Authorize_V3",
+    "Value": "199,3,1,0,0,78,0,111,0,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_TIME_TRACK",
+    "Type": "Authorize_V3",
+    "Value": "199,0,1,0,0,73,0,110,0,116,0,101,0,114,0,118,0,97,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_POWER_OFF",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,80,0,111,0,119,0,101,0,114,0,32,0,79,0,102,0,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_REFUSE_ANSWER_RING",
+    "Type": "Authorize_V3",
+    "Value": "0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_AUTO_ANSWER_RING",
+    "Type": "Authorize_V3",
+    "Value": "0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_MONITOR_RING",
+    "Type": "Authorize_V3",
+    "Value": "0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_FALL",
+    "Type": "Authorize_V3",
+    "Value": "198,199,1,0,0,70,0,97,0,108,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,199,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_TALK_MSG",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_CLOCK",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,65,0,108,0,97,0,114,0,109,0,32,0,105,0,110,0,102,0,111,0,0,0,0,0,0,0,0,0,0,0,0,199,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_START_STROKE",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,83,0,116,0,97,0,114,0,116,0,32,0,115,0,116,0,114,0,111,0,107,0,101,0,0,0,0,0,0,0,0,0,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_END_STROKE",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,69,0,110,0,100,0,32,0,115,0,116,0,114,0,111,0,107,0,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_RESET_STEP",
+    "Type": "Authorize_V3",
+    "Value": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_ENTER_COMMON_POINT",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_EXIT_COMMON_POINT",
+    "Type": "Authorize_V3",
+    "Value": "0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_LOSE",
+    "Type": "Authorize_V3",
+    "Value": "198,199,1,0,0,66,0,76,0,69,0,32,0,108,0,111,0,115,0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,199,1,0"
+  },
+  {
+    "Name": "Authorize_V3EEP2_SYSTEM_EVENT_LOSE_RECOVERY",
+    "Type": "Authorize_V3",
+    "Value": "198,199,1,0,0,66,0,76,0,69,0,32,0,114,0,101,0,99,0,111,0,118,0,101,0,114,0,121,0,0,0,0,0,0,0,0,199,199,1,0"
+  },
+  {
+    "Name": "textBox_Phone5",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_Phone3",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_Phone2",
+    "Type": "TextBox",
+    "Value": "+97466666493"
+  },
+  {
+    "Name": "textBox_Phone1",
+    "Type": "TextBox",
+    "Value": "+97455009889"
+  },
+  {
+    "Name": "textBox_Phone4",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "checkBox_BLEAntiLost_Search_Voice",
+    "Type": "CheckBox",
+    "Value": "True"
+  },
+  {
+    "Name": "checkBox_BLEAntiLost_Search_Vibrate",
+    "Type": "CheckBox",
+    "Value": "True"
+  },
+  {
+    "Name": "numericUpDown_BLEAntiLost_Search_BuzzerTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "comboBox_BLEAntiLost_Mode",
+    "Type": "ComboBox",
+    "Value": "Normal"
+  },
+  {
+    "Name": "checkBox_BLEAntiLost_AntiLost_Voice",
+    "Type": "CheckBox",
+    "Value": "True"
+  },
+  {
+    "Name": "checkBox_BLEAntiLost_AntiLost_Vibrate",
+    "Type": "CheckBox",
+    "Value": "True"
+  },
+  {
+    "Name": "numericUpDown_BLEAntiLost_AntiLost_AlarmDuration",
+    "Type": "NumericUpDown",
+    "Value": "10"
+  },
+  {
+    "Name": "numericUpDown_BLEAntiLost_AntiLost_BuzzerTime",
+    "Type": "NumericUpDown",
+    "Value": "5"
+  },
+  {
+    "Name": "checkBox_BLEAntiLost",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "Vibrate_1",
+    "Type": "Vibrate_V1",
+    "Value": "49,48,1,1,100,0,0,0,50,50,0,0,0,67,97,108,108,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "Vibrate_2",
+    "Type": "Vibrate_V1",
+    "Value": "49,48,1,1,50,0,0,0,50,50,0,0,0,83,79,83,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "Vibrate_3",
+    "Type": "Vibrate_V1",
+    "Value": "49,48,1,1,50,0,0,0,50,50,0,0,0,83,105,100,101,32,66,117,116,116,111,110,0,0,0,0,0"
+  },
+  {
+    "Name": "Vibrate_4",
+    "Type": "Vibrate_V1",
+    "Value": "49,48,1,1,112,23,0,0,80,50,0,0,0,65,108,97,114,109,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "Vibrate_5",
+    "Type": "Vibrate_V1",
+    "Value": "49,48,1,1,144,1,0,0,50,50,0,0,0,70,97,108,108,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "Vibrate_6",
+    "Type": "Vibrate_V1",
+    "Value": "49,48,1,1,50,0,0,0,50,50,0,0,0,79,116,104,101,114,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "checkBox_Vibrate_TotalVibrationEnable",
+    "Type": "CheckBox",
+    "Value": "True"
+  },
+  {
+    "Name": "checkBox_Vibrate_TotalVoiceEnable",
+    "Type": "CheckBox",
+    "Value": "True"
+  },
+  {
+    "Name": "checkBox_EventATQA_SOS",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_AudioPlay_MiddlePower",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "checkBox_AudioPlay_FallDown",
+    "Type": "CheckBox",
+    "Value": "True"
+  },
+  {
+    "Name": "checkBox_AudioPlay_LowPower",
+    "Type": "CheckBox",
+    "Value": "True"
+  },
+  {
+    "Name": "checkBox_AudioPlay_HighPower",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "numericUpDown_CallVolume_Speaker",
+    "Type": "NumericUpDown",
+    "Value": "4"
+  },
+  {
+    "Name": "numericUpDown_CallVolume_MIC",
+    "Type": "NumericUpDown",
+    "Value": "4"
+  },
+  {
+    "Name": "comboBox_EmergencyCall_Ifallauthorizednumbersfailstoanswer",
+    "Type": "ComboBox",
+    "Value": "re-dial all authorized number by order"
+  },
+  {
+    "Name": "checkBox_EmergencyCall_AvoidVoicemailBox",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "comboBox_Unauthorizedincomingcall",
+    "Type": "ComboBox",
+    "Value": "Reject call"
+  },
+  {
+    "Name": "numericUpDown_SpeedValue",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_SendTimeHigh",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_SendTimeLow",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "textBox_BLEVersion",
+    "Type": "TextBox",
+    "Value": "CB88W1-V005"
+  },
+  {
+    "Name": "textBox_BLE_Broadcastname",
+    "Type": "TextBox",
+    "Value": "864454071198372"
+  },
+  {
+    "Name": "numericUpDown_BLE_BroadcastInterval",
+    "Type": "NumericUpDown",
+    "Value": "1000"
+  },
+  {
+    "Name": "textBox_BLE_BluetoothPSW",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown1",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown2",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "checkBox_BLE_ManufacturerSpecificData",
+    "Type": "CheckBox",
+    "Value": "False"
+  },
+  {
+    "Name": "textBox_BLE_CompanyIdentifierCode",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "textBox_BLE_CustomAdvertisingDataContents",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBox_BLE_Mode",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBox2",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBox3",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown_BLE_ScanningInterval",
+    "Type": "NumericUpDown",
+    "Value": "5"
+  },
+  {
+    "Name": "numericUpDown_BLE_ScanningTime",
+    "Type": "NumericUpDown",
+    "Value": "5"
+  },
+  {
+    "Name": "numericUpDown6",
+    "Type": "NumericUpDown",
+    "Value": "10"
+  },
+  {
+    "Name": "comboBox4",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "numericUpDown7",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown8",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "AlarmClock_2",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_3",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_4",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_5",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_6",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_7",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_8",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_9",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_10",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_11",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_12",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_13",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_14",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_15",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_16",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_17",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_18",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_19",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_20",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_21",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_22",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_23",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_24",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "AlarmClock_25",
+    "Type": "AlarmClock_V1",
+    "Value": "2,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "radioButton3",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton2",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton1",
+    "Type": "RadioButton",
+    "Value": "True"
+  },
+  {
+    "Name": "txtAverageSpeed",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "txtTotal",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "txtTotalTime",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "txtOdometers",
+    "Type": "TextBox",
+    "Value": ""
+  },
+  {
+    "Name": "dateTimePicker_GPSLogCCE_To",
+    "Type": "DateTimePicker",
+    "Value": "2024-07-04T00:00:00+03:00"
+  },
+  {
+    "Name": "dateTimePicker_GPSLogCCE_From",
+    "Type": "DateTimePicker",
+    "Value": "2024-06-03T00:00:00+03:00"
+  },
+  {
+    "Name": "comboBox_GPSLogCCE_IMEI",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "comboBox_FrequentStayPlace_Index",
+    "Type": "ComboBox",
+    "Value": ""
+  },
+  {
+    "Name": "FrequentStayPlace_V11",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V12",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V13",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V14",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V15",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V16",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V17",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V18",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V19",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V110",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V111",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V112",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V113",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V114",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V115",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V116",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V117",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V118",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V119",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V120",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V121",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V122",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V123",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V124",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V125",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V126",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V127",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V128",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V129",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V130",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V131",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V132",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V133",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V134",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V135",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V136",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V137",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V138",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V139",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V140",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V141",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V142",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V143",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V144",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V145",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V146",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V147",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V148",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V149",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V150",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V151",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V152",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V153",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V154",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V155",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V156",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V157",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V158",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V159",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V160",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V161",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V162",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V163",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "FrequentStayPlace_V164",
+    "Type": "FrequentStayPlace_V1",
+    "Value": "2,3,0,0,0,0,0,0,0,0,0"
+  },
+  {
+    "Name": "radioButton_Device",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_Tracking",
+    "Type": "RadioButton",
+    "Value": "True"
+  },
+  {
+    "Name": "radioButton_GeoFence",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_Authorize",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_Peripheral",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_Maintain",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_Pressure",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_Network",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_Video",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_Other",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_GPSLog",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_GPSLogCCE",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_FrequentStopPlace",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_OBD",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "radioButton_ADASDMS",
+    "Type": "RadioButton",
+    "Value": "False"
+  },
+  {
+    "Name": "numericUpDown_AlarmSpeed",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_DetectionTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_OverspeedWarningOffsetValue",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_BuzzerAlertSpeed",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_BuzzerAlertDetectionTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_SpeedingThreshold",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_UploadInterval",
+    "Type": "NumericUpDown",
+    "Value": "60"
+  },
+  {
+    "Name": "numericUpDown_AngleValue",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_Distance",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_Fall_JudgmentTime",
+    "Type": "NumericUpDown",
+    "Value": "0"
+  },
+  {
+    "Name": "numericUpDown_Fall_DurationofAlarm",
+    "Type": "NumericUpDown",
+    "Value": "10"
+  },
+  {
+    "Name": "numericUpDown_Fall_AlarmSensitivity",
+    "Type": "NumericUpDown",
+    "Value": "1"
+  },
+  {
+    "Name": "checkBox_Fall_AlarmEnabled",
+    "Type": "CheckBox",
+    "Value": "False"
+  }
+]
